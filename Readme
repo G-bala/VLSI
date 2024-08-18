@@ -6,7 +6,7 @@ In case if you don't have any previous exposture to VLSI, please continue readin
 
 TO USE XSCHEM WITH SKY WATER 130 PDK,
 
-use this cmd inside the folder where you creat you project. 'cp /usr/local/share/pdk/sky130B/libs.tech/xschem/xschemrc .'
+use this cmd inside the folder where you creat you project. `cp /usr/local/share/pdk/sky130B/libs.tech/xschem/xschemrc .`
 
 In the above cmd we used sky130B directory instead of sky130A, So why use sky130B not sky130A,
 
