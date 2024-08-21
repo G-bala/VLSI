@@ -15,6 +15,6 @@ When the input voltage switches to 1, the opposite occurs. The NMOS transistor i
 ![inverter at 1](https://github.com/user-attachments/assets/8b95fb49-61f8-4d5c-98bc-3599026df8c6)
 
 > NOTE
->  * The Nmos transistor should be connected with the most negative terminal and Pmos transistor with most positive terminal.
->  * With higher gain the transition between state is fast.
->  * The proragation delay can be calculated by measuring RC circuit.
+>  * The NMOS transistor should be connected to the most negative terminal, and the PMOS transistor to the most positive terminal.
+>  * A higher gain results in a faster transition between states.
+>  * The propagation delay can be calculated by measuring the RC circuit.
