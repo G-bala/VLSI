@@ -9,9 +9,9 @@ The Lumped capacitance connected to the output terminal of inverter represents n
 Fig 1.1
 
 > * Cmos is voltage controlled three terminal device.
->        * Gate
->        * Source
-> > > > * Drain
+>    * Gate
+>    * Source
+>    * Drain
 > * There is a fourth connection within the transistor jointing substarte to source. Or in more specific for Nmos and Pmos the substrate connect to most positive terminal and negative terminal.  
 
 Fig 1.2a represent PULL UP BLOCK, its when the input equals or less than that of "Vil" and out put will be greater or equals to "Voh". The complement of fig 1.2a is fig 1.2b and its called PULL DOWN BLOCK. The output dosn't change as long the input remains in its range.   
