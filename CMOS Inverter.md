@@ -10,7 +10,7 @@ The Lumped capacitance connected to the output terminal of inverter represents n
 When the input level (Vin) is 0, the PMOS transistor is activated, causing the output level (Vout) to become 1, so its called as PULL UP block. The image below represents this scenario, where Vdd passes through the PMOS transistor and charges the capacitor, resulting in an increased voltage at Vout. As long as the input is 0, the output remains at 1.
 When the input volatge (Vin) is either lower or equal to 'Vil',  
 
-![inveter when 0](https://github.com/user-attachments/assets/28f732ea-a049-4373-af36-b48016b818ce)
+![inveter when 0](https://github.com/user-attachments/assets/28f732ea-a049-4373-af36-b48016b818ce) ![inverter at 1](https://github.com/user-attachments/assets/8b95fb49-61f8-4d5c-98bc-3599026df8c6) Fig 1.2 a,b
 
 In inverter the input and output level compliment's each so, NMOS transistor is activated while the PMOS transistor is deactivated. This block is called PULL DOWN DEVICE. The image below represents this scenario. If the capacitor is charged, it will follow the path of least resistance to dissipate the stored energy.
 
