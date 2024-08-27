@@ -9,8 +9,8 @@ The Lumped capacitance connected to the output terminal of inverter represents n
 Fig 1.1
 
 > * Cmos is voltage controlled three terminal device.
-> > > > * Gate
-> > > > * Source
+>        * Gate
+>        * Source
 > > > > * Drain
 > * There is a fourth connection within the transistor jointing substarte to source. Or in more specific for Nmos and Pmos the substrate connect to most positive terminal and negative terminal.  
 
