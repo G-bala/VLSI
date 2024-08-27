@@ -23,11 +23,13 @@ Fig 1.2a represent PULL UP BLOCK, its when the input equals or less than that of
 ![inveter when 0](https://github.com/user-attachments/assets/28f732ea-a049-4373-af36-b48016b818ce) ![inverter at 1](https://github.com/user-attachments/assets/8b95fb49-61f8-4d5c-98bc-3599026df8c6) Fig 1.2 a,b
 
 So what is Vil, Vih, Vol, Voh ?
-  * Voh : Max output V when the output logic level is "1"
-  * Vol : Min output V when the output logic level is "0"
-  * Vil : Max input V when the output logic level is "0"
-  * Voh : Min input V when the output logic level is "1"
-![Screenshot 2024-08-27 191525](https://github.com/user-attachments/assets/566a8dd3-ef12-400d-beaf-51be98057b53)
+  * Voh : Max output V when the output logic level is "1".
+  * Vol : Min output V when the output logic level is "0".
+  * Vil : Max input V when the output logic level is "0". 
+  * Voh : Min input V when the output logic level is "1".
+  * Vth : The point of contact between Vin and Vout.
+![image](https://github.com/user-attachments/assets/f86a5383-9837-4009-b8b4-96cb865a4f21)
+
 
 > NOTE
 >  * The NMOS transistor should be connected to the most negative terminal, and the PMOS transistor to the most positive terminal.
