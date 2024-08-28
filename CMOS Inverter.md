@@ -35,3 +35,5 @@ So what is Vil, Vih, Vol, Voh ?
 >  * The NMOS transistor should be connected to the most negative terminal, and the PMOS transistor to the most positive terminal.
 >  * A higher gain results in a faster transition between states.
 >  * The propagation delay can be calculated by measuring the RC circuit.
+
+You can install CMOS inverter file from Not_testbench and inv_vtc as its symbot to run using Xschem. 
